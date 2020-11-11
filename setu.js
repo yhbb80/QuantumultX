@@ -1,4 +1,4 @@
-let apikey = '' //请在 Telegram 内使用 @loliconApiBot 申请，
+let apikey = '308424105faba815c64ed7' //请在 Telegram 内使用 @loliconApiBot 申请，
 let r18 = 2 //18禁为1 非为0 2是混合
 let keyword = ''//搜索关键字
 var params = {
